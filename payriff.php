@@ -1,4 +1,15 @@
 <?php
+/**
+ * Payriff Payment Gateway Module for WHMCS
+ *
+ * Bu modul WHMCS üçün Payriff ödəniş sistemini inteqrasiya edir.
+ *
+ * License: MIT
+ * Author: Community contributors
+ * Version: 1.0.0
+ */
+
+
 
 if (!defined("WHMCS")) {
     die("This file cannot be accessed directly");
