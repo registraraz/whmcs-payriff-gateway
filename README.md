@@ -1,13 +1,15 @@
-# WHMCS PAYRIFF GATEWAY
+# WHMCS Payriff Payment Gateway Module
 
 Bu repo **WHMCS PAYRIFF GATEWAY** moduludur.  
-Faylı WHMCS qurulumunuzda bu qovluğa yerləşdirin:
 
+Faylı WHMCS qurulumunuzda bu qovluğa yerləşdirin:
 /modules/gateways/
 
 
 ## Status
-- İşləkdir.
+- Modul işləkdir və test olunub.
+- WHMCS 8.x versiyaları ilə uyğunluq sınaqdan keçirilib.
+
 
 ## İstifadə
 1. payriff.php və callback/payriff.php fayllarını yükləyin.
